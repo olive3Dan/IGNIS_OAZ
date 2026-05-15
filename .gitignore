@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kiro
+.kiro/
+
+# Backend
+backend/target/
+backend/*.jar
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Env
+.env
+*.log
