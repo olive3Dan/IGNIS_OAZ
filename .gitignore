@@ -21,3 +21,9 @@ frontend/dist/
 # Env
 .env
 *.log
+
+# Large files
+*.deb
+*.exe
+*.msi
+*.dmg
